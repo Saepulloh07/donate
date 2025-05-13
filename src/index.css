@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul#donor-list {
+  list-style: none;
+  padding: 0;
+}
+
+ul#donor-list li {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
